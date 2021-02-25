@@ -51,5 +51,4 @@ urlpatterns = [
 
 4-Run server 
 
-
-4- admin"# disquaire_django" 
+"# disquaire_django" 

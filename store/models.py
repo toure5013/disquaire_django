@@ -10,7 +10,7 @@ ARTISTS  = {
 
 
 ALBUMS = [
-    {'name' : 'Sarbacae', 'artists' : ARTISTS['francis-cabrel']},
-    {'name' : "La Dalle", 'artists' : ARTISTS['lej']},
-    {'name' : "Valey", 'artists' : ARTISTS['sam']},
+    {'name' : 'Sarbacae', 'artists' : [ARTISTS['francis-cabrel']]},
+    {'name' : "La Dalle", 'artists' : [ARTISTS['lej']]},
+    {'name' : "Valey", 'artists' : [ARTISTS['sam']]},
 ]
